@@ -112,6 +112,24 @@ body {
     margin: 3px;
 }
 
+.updates {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.email-subs {
+    text-align: center;
+    height: 150px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(178, 196, 151);
+}
+
+.form {
+    text-align: center;
+}
+
 .footer {
     text-align: center;
     background-color: black;
