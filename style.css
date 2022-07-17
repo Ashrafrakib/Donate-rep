@@ -119,16 +119,16 @@ body {
 }
 
 .email-subs {
-    text-align: center;
     height: 150px;
     margin-left: 20%;
     margin-right: 20%;
     background-color: rgb(178, 196, 151);
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 75px;
 }
 
-.form {
-    text-align: center;
-}
+.form {}
 
 .footer {
     text-align: center;
@@ -136,6 +136,7 @@ body {
 }
 
 .footertext {
+    padding-top: 20px;
     color: orangered;
     font-family: 'Courier New', Courier, monospace;
 }
